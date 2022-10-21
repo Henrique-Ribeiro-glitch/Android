@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escadinha</string>
+    <string name="button1">ROJO</string>
+    <string name="button2">NARANJA</string>
+    <string name="button3">AMARILLO</string>
+    <string name="button4">VERDE</string>
+    <string name="button5">AZUL</string>
+    <string name="button6">ÍNDIGO</string>
+    <string name="button7">ROSADO</string>
+</resources>

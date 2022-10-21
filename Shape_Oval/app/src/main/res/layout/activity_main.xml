@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background_layout">
+
+    <Button
+        android:id="@+id/Sol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/background_sol"
+        android:width="120dp"
+        android:height="120dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/Grama"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/backgorund_grama"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/strela"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="30dp"/>
+
+    <Button
+    android:id="@+id/strela2"
+    android:layout_width="5dp"
+    android:layout_height="5dp"
+    android:background="@drawable/background_sol"
+    android:layout_marginTop="60dp"
+    android:layout_marginLeft="70dp" />
+
+    <Button
+        android:id="@+id/strela3"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="300dp" />
+
+    <Button
+        android:id="@+id/strela4"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/background_sol" />
+
+    <Button
+        android:id="@+id/strela5"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="320dp" />
+
+    <Button
+        android:id="@+id/strela6"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="280dp" />
+
+    <Button
+        android:id="@+id/strela7"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="125dp" />
+
+    <Button
+        android:id="@+id/strela8"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp" />
+
+    <Button
+        android:id="@+id/strela9"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="90dp" />
+
+    <Button
+        android:id="@+id/strela10"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="400dp" />
+
+    <Button
+        android:id="@+id/strela11"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="350dp" />
+
+    <Button
+        android:id="@+id/strela12"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="300dp" />
+
+    <Button
+        android:id="@+id/strela13"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="250dp" />
+
+    <Button
+        android:id="@+id/strela14"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="13dp"
+        android:layout_marginLeft="220dp" />
+
+    <Button
+        android:id="@+id/strela15"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="180dp" />
+
+    <Button
+        android:id="@+id/strela16"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="30dp"/>
+
+    <Button
+        android:id="@+id/strela17"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="17dp"
+        android:layout_marginLeft="10dp" />
+
+    <Button
+        android:id="@+id/strela18"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="125dp" />
+
+    <Button
+        android:id="@+id/strela19"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_marginLeft="380dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/background_sol" />
+
+    <Button
+        android:id="@+id/strela20"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:background="@drawable/background_sol"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="110dp" />
+</RelativeLayout>
